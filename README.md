@@ -1,1 +1,1 @@
-Die ist das Depot von Erika Mustermann.
+Dies ist das readme-file von Erika Mustermann.
